@@ -1,2 +1,4 @@
 venv/
 __pycache__/
+yellow_tripdata_2025-02.parquet
+mlruns/
